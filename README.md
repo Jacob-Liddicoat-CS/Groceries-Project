@@ -1,10 +1,11 @@
 # Groceries-Project
-<DOCTYPE html>
-<html>
-<head>
-<title> Main Computer Science 30 Project Repository </title>
-</head>
-<body>
-<h1> </h1>
-</body>
-</html>
+
+## Main Computer Science 30 Project ##
+
+### Flowchart ###
+---
+                             < Customer Request and Feedback < $ & Order
+Object > Warehouse > Storage > Picking       
+                               Packing Guide > Staff Checker
+                               Delivery      > Updating Robotic Inventory
+---
