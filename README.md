@@ -21,3 +21,12 @@ Object > Warehouse > Storage
 - [] Storage Algorithm
 - [] Customer Request Algorithm
 ---
+### Example Consumer Request ###
+```
+| Items    | Items Ordered | Amt in Stock | Price  |
+| Apples   |      10       |      100     | $15.00 |
+| Oranges  |       0       | Out of Stock | $0.00  |
+| Choc Box |       3       |       20     | $10.00 |
+|  Total   |      13       |      ----    | $25.00 |
+```
+---
