@@ -12,8 +12,14 @@ Object > Warehouse > Storage
 ```
 ### To Do List ###
 ---
+- [] Name of Object
+- [] Shape
 - [] Calculate Gross Cost
 - [] Calculate Volume
+  - [] Length
+  - [] Width
+  - [] Height
+  - [] Diameter
 - [] Calculate Central Tendency (Mean, Median, Mode)
 - [] Calculate Layers Removed ``(x - 1)``
 - [] Calculate Carrying Capacity (Weight 1 item can handle) (Weight x AboveObjects)
